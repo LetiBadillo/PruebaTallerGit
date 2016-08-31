@@ -196,7 +196,6 @@
 				TargetAttributes = {
 					0E221A881D77875000859486 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = W39Y8R7382;
 					};
 					0E221A9F1D77875100859486 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -406,6 +405,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PruebaTallerGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Leti.PruebaTallerGit;
@@ -417,6 +417,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = PruebaTallerGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.Leti.PruebaTallerGit;
